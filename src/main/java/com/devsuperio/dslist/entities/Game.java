@@ -98,7 +98,7 @@ public class Game {
 	}
 
 	public void setPlatform(String platform) {
-		this.platforms = platforms;
+		this.platforms = platform;
 	}
 	
 	
